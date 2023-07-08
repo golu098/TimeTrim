@@ -1,3 +1,4 @@
+import React from"react";
 import {
   BrowserRouter,
   Routes,
@@ -6,6 +7,7 @@ import {
 import Home from "./pages/home/Home";
 import Hotel from "./pages/hotel/Hotel";
 import List from "./pages/list/List";
+
 
 function App() {
   return (

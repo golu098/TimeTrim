@@ -1,3 +1,4 @@
+import React from"react";
 import "./searchItem.css";
 
 const SearchItem = () => {

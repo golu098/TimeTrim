@@ -1,4 +1,5 @@
 import "./list.css";
+import React from"react";
 import Navbar from "../../components/navbar/Navbar";
 import Header from "../../components/header/Header";
 import { useLocation } from "react-router-dom";
